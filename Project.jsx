@@ -89,7 +89,7 @@ function Project() {
               <div className="card-body">
                 <h4 className="card-title">1.Portfolio</h4>
                 <p className="card-text" style={{ fontSize: '97%',textAlign:'justify' }}>I am creating a Portfolio using Bootstrap and React. Every step has been a great learning experience.</p>
-                <Link to="https://github.com/saimadhulenka/Portfolio/tree/main/src" style={{textDecoration:'none'}}>
+                <Link to="https://github.com/saimadhulenka/MyPortfolio" style={{textDecoration:'none'}}>
                   <BsGithub /> Github Link
                 </Link>
               </div>
